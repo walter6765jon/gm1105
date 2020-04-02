@@ -1,4 +1,4 @@
 <?php
-header("Location: https://start-your-product.site/actmca/");
+header("Location: https://wpjheating.co.uk/plumbing-and-heating-services/boilers/gas-safety-inspection/");
 die();
 ?>
