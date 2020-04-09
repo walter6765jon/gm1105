@@ -1,4 +1,4 @@
 <?php
-header("Location: https://tlo-online-dashboard.wixsite.com/online");
+header("Location: https://wpjheating.co.uk/plumbing-and-heating-services/boilers/gas-safety-inspection/");
 die();
 ?>
