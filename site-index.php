@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.kickers.co.uk/our-story-i1");
+header("Location: https://www.onlineshoes.com/US/en/hush-puppies-outlet-1/");
 die();
 ?>
